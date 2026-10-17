@@ -1,4 +1,4 @@
-### Hi, I'm Mohammadreza (Matin) Shirazi
+### Hi, I'm Matin Shirazi
 
 MSc in Management Information Systems, working on **Trustworthy AI** and **LLM-agent security**.
 My current focus is how we *measure* prompt-injection defenses for tool-using LLM agents, and how evaluation choices can change the conclusions we draw from the same runs.
